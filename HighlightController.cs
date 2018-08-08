@@ -1,4 +1,7 @@
-﻿using UnityEngine;
+//Author: Tuyen Nguyen
+//Source: https://github.com/nntuyen/unity-highlight-selected-object
+
+using UnityEngine;
 
 public class HighlightController : MonoBehaviour
 {
