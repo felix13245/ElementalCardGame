@@ -1,4 +1,7 @@
-﻿using UnityEngine;
+//Author: Tuyen Nguyen
+//Source: https://github.com/nntuyen/unity-highlight-selected-object
+
+using UnityEngine;
 
 [RequireComponent(typeof(MeshRenderer))]
 public class HighlightObject : MonoBehaviour
